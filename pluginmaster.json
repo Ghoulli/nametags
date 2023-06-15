@@ -17,8 +17,8 @@
       "UI"
     ],
     "LastUpdate": "1650001104",
-    "DownloadLinkInstall": "https://github.com/Ghoulli/nametags/blob/main/nametagsv2.zip",
-    "DownloadLinkTesting": "https://github.com/Ghoulli/nametags/blob/main/nametagsv2.zip",
-    "DownloadLinkUpdate": "https://github.com/Ghoulli/nametags/blob/main/nametagsv2.zip"
+    "DownloadLinkInstall": "https://codeload.github.com/Ghoulli/nametags/zip/refs/tags/trial",
+    "DownloadLinkTesting": "https://codeload.github.com/Ghoulli/nametags/zip/refs/tags/trial",
+    "DownloadLinkUpdate": "https://codeload.github.com/Ghoulli/nametags/zip/refs/tags/trial"
   }
 ]
